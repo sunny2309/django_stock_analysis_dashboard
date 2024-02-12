@@ -1,6 +1,6 @@
 # Django Stock Analysis Dashboard
 
-The codebase contains the code of a stock analysis dashboard created using Django and Amcharts. 
+The codebase contains the code of a stock analysis dashboard created using **Django** and **[Amcharts](https://www.amcharts.com)**. 
 
 Django is Python web-framework and Amcharts is a famous javascript library for creating interactive data visualizations.
 
