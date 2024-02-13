@@ -10,6 +10,6 @@ The app's layout is created using the frontend framework **[Bootstrap](https://g
 
 I have recorded a YouTube video that explains the codebase in detail. Here's a link to it.
 
-* [Django Stock Analysis Dashboard](https://www.youtube.com/@CoderzColumn)
+* [Django Stock Analysis Dashboard](https://www.youtube.com/watch?v=Dce25M0onlI)
 
 Please feel free to extend the dashboard by adding new functionalities.
